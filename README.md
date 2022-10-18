@@ -22,40 +22,40 @@ Ouvrir FL Studio.
 
 Ouvrir les `Audio Settings` dans la liste `Options`.
 
-![Carte son](./images/Capture2.png)
+![Carte son](./images/capture2.png)
 
 Dans la liste `Device`, sélectionner notre carte son `Focusrite USB ASIO`.
 
-![Carte son](./images/Capture3.png)
+![Carte son](./images/capture3.png)
 
 *Attention à bien prendre la Focusrite dans la partie `Asio Device` de la liste.*
 
 Voilà l'interface quand tout est bien connecté :
 
-![Carte son](./images/Capture4.png)
+![Carte son](./images/capture4.png)
 
 ## 3. Enregistrement
 
 Cliquer sur l'icône micro en haut à droite.
 
-![Carte son](./images/Capture1.png)
+![Carte son](./images/capture1.png)
 
 Choisir `Into Edison audio editor/recorder`.
 
-![Carte son](./images/Capture5.png)
+![Carte son](./images/capture5.png)
 
 Cliquer sur le bouton enregistrer ⏺️ pour commencer l'enregistrement.
 
-![Carte son](./images/Capture6.png)
+![Carte son](./images/capture6.png)
 
 Le bouton enregistrer ⏺️ devient rouge, et on peux cliquer sur le bouton stop ⏹️ pour arrêter.
 
-![Carte son](./images/Capture7.png)
+![Carte son](./images/capture7.png)
 
 Pour sauvegarder l'enregistrement, cliquer sur le bouton disquette 💾 et choisir `Save sample as`.
 
-![Carte son](./images/Capture9.png)
+![Carte son](./images/capture9.png)
 
 Pour créer un nouvel enregistrement, cliquer sur le bouton disquette 💾 et choisir `New`.
 
-![Carte son](./images/Capture8.png)
+![Carte son](./images/capture8.png)
