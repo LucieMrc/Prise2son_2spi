@@ -16,6 +16,9 @@ Et il doit y avoir des trucs branchés dessus :
 
 ![Carte son](./images/img3.jpg)
 
+Il faut également allumer les enceintes grâce au bouton derrière :
+![Enceintes](./images/img4.jpg)
+
 ## 2. Réglages FL Studio
 
 Ouvrir FL Studio.
