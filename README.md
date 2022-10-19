@@ -1,6 +1,8 @@
 # Prise2son_2spi
 
-Pré-requis : être dans le studio son.
+**Ou comment faire une prise de son en autonomie pour les voix-off, les podcasts et ainsi de suite.**
+
+Pré-requis : être dans le studio son et avoir quelqu'un qui parle dans la pièce en face. 
 
 ## 1. Branchements
 
