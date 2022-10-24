@@ -18,6 +18,9 @@ Et il doit y avoir des trucs branchés dessus :
 
 ![Carte son](./images/img3.jpg)
 
+Pour régler le gain du micro (avoir un volume adéquat si la personne va crier dans le micro ou au contraire murmurer par exemple), c'est le premier potard à gauche sur la face de la carte son.
+
+
 Il faut également allumer les enceintes grâce au bouton derrière :
 ![Enceintes](./images/img4.jpg)
 
