@@ -44,7 +44,7 @@ Voilà l'interface quand tout est bien connecté :
 
 ## 3. Enregistrement
 
-Cliquer sur l'icône micro en haut à droite.
+Cliquer sur l'icône micro 🎙️ en haut à droite.
 
 ![Carte son](./images/capture1.png)
 
