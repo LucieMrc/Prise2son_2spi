@@ -26,7 +26,46 @@ Pour régler le gain du micro (avoir un volume adéquat si la personne va crier 
 Il faut également allumer les enceintes grâce au bouton derrière :
 ![Enceintes](./images/img4.jpg)
 
-## 2. Réglages FL Studio
+## 2. Enregistrer avec Reaper
+
+Ouvrir Reaper.
+
+// photo
+
+Cliquer sur "Still Evaluating".
+
+Créer un track avec `Track` > `Insert new track`.
+
+![nouveau track](./images/screen1.png)
+
+Pour pouvoir enregistrer sur le track, cliquer sur le bouton record ⏺️ sur le track soit en haut à gauche dans la liste des tracks, soit en bas à gauche dans le panneau de mix.
+
+![nouveau track](./images/screen2.png)
+![nouveau track](./images/screen3.png)
+
+On voit alors le niveau de son du micro dans les vu-mètres.
+
+Il suffit alors de cliquer sur le bouton record ⏺️ principal pour enregistrer le son du micro sur le track.
+
+![nouveau track](./images/screen4.png)
+
+Pour recouper l'enregistrements, on peux soit sélectionner la partie du son à conserver et faire clic-droit > `Crop project to selection`, ou alors sélectionner les parties du son à enlever et faire clic-droit > `Remove contents of selection`.
+
+![nouveau track](./images/screen5.png)
+
+Pour exporter le son, faire `File` > `Consolidate/Export tracks...` .
+
+![nouveau track](./images/screen6.png)
+
+Gérer les réglages de l'export :
+
+![nouveau track](./images/screen7.png)
+
+Choisir notamment le format de fichier avec `Consolidate to` (WAV, AIFF, MP3), et l'emplacement de l'export avec `Output consolidated files to directory:`.
+
+## 3. Enregistrer avec FL Studio
+
+### Réglages FL Studio
 
 Ouvrir FL Studio.
 
@@ -44,7 +83,7 @@ Voilà l'interface quand tout est bien connecté :
 
 ![Carte son](./images/capture4.png)
 
-## 3. Enregistrement
+### Enregistrement
 
 Cliquer sur l'icône micro 🎙️ en haut à droite.
 
