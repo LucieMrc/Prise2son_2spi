@@ -20,8 +20,17 @@ Et il doit y avoir des trucs branchés dessus :
 
 ![Carte son](./images/img3.jpg)
 
-Pour régler le gain du micro (avoir un volume adéquat si la personne va crier dans le micro ou au contraire murmurer par exemple), c'est le premier potard à gauche sur la face de la carte son.
+Pour régler le gain du micro (avoir un volume adéquat si la personne va crier dans le micro ou au contraire murmurer par exemple), c'est le second potard à gauche sur la face de la carte son :
 
+![carte son](./images/entree_focusrite.png)
+
+<details><summary> La différence entre gain et volume</summary>
+Le gain c'est l'amplitude du signal d'entrée (à quel point le micro capte le son), tandis que le volume c'est l'amplitude du signal de sortie (à quel point les enceintes font du bruit).
+</details>
+
+On peux ainsi augmenter ou diminuer le gain du micro régie (celui qui permet de communiquer avec la personne dans la cabine) ou du micro cabine (celui qu'on enregistre), le volume des enceintes de monitoring dans la régie, ainsi que le volume du casque de la cabine, et de la seconde sortie si on utilise un casque dans la régie par exemple.
+
+Attention, il faut baisser le volume des enceintes si on utilise le micro régie pour éviter les effets larsen.
 
 Il faut également allumer les enceintes grâce au bouton derrière :
 ![Enceintes](./images/img4.jpg)
