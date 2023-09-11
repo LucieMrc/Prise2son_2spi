@@ -117,3 +117,20 @@ Pour sauvegarder l'enregistrement, cliquer sur le bouton disquette 💾 et chois
 Pour créer un nouvel enregistrement, cliquer sur le bouton disquette 💾 et choisir `New`.
 
 ![Carte son](./images/capture8.png)
+
+
+## En cas de problèmes
+
+Avant tout, vérifier si les câbles sont bien branchés en face des entrées de leur code couleur (gommettes) :
+
+Sur la carte son :
+![carte son](./images/entree_focusrite.png)
+
+Sur les micros régie et cabine :
+![carte son](./images/gommettes_mics.png)
+
+Sur les prises au mur dans la régie :
+![carte son](./images/gomettes_regie.png)
+
+Sur les prises au mur dans la cabine :
+![carte son](./images/gomettes_cabine.png)
