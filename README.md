@@ -37,9 +37,11 @@ Il faut également allumer les enceintes grâce au bouton derrière :
 
 ## 2. Enregistrer avec Reaper
 
+Se connecter à l'ordi avec la session ateliernum.
+
 Ouvrir Reaper.
 
-// photo
+<!-- photo -->
 
 Cliquer sur "Still Evaluating".
 
@@ -53,6 +55,10 @@ Pour pouvoir enregistrer sur le track, cliquer sur le bouton record ⏺️ sur l
 ![nouveau track](./images/screen3.png)
 
 On voit alors le niveau de son du micro dans les vu-mètres.
+
+Pour changer de micro d'entrée (le micro cabine ou le micro régie) qui est enregistré dans le track, cliquer sur la flèche vers le bas ⬇️ dans petit bouton `in`, et sélectionner `Input: Mono` > Left ou Right en fonction de.
+
+![nouveau track](./images/capture10.png)
 
 Il suffit alors de cliquer sur le bouton record ⏺️ principal pour enregistrer le son du micro sur le track.
 
@@ -73,6 +79,8 @@ Gérer les réglages de l'export :
 Choisir notamment le format de fichier avec `Consolidate to` (WAV, AIFF, MP3), et l'emplacement de l'export avec `Output consolidated files to directory:`.
 
 ## 3. Enregistrer avec FL Studio
+
+Se connecter à l'ordi avec la session ateliernum.
 
 ### Réglages FL Studio
 
