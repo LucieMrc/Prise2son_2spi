@@ -56,7 +56,9 @@ Pour pouvoir enregistrer sur le track, cliquer sur le bouton record ⏺️ sur l
 
 On voit alors le niveau de son du micro dans les vu-mètres.
 
-Pour changer de micro d'entrée (le micro cabine ou le micro régie) qui est enregistré dans le track, cliquer sur la flèche vers le bas ⬇️ dans petit bouton `in`, et sélectionner `Input: Mono` > Left ou Right en fonction de.
+Pour changer de micro d'entrée (le micro cabine ou le micro régie) qui est enregistré dans le track, cliquer sur la flèche vers le bas ⬇️ dans petit bouton `in`, et sélectionner `Input: Mono` > Left ou Right (ou input 1 et 2) en fonction de. Left ou Input 1 est donc par défaut le son du micro régie, et Right ou Input 2 est le son du micro cabine.
+
+Si la personne dans la cabine s'entend pendant qu'iel enregistre dans le retour de son casque, c'est parce qu'il entend le son des enceintes de monitoring dans le micro de la régie. On peux alors baisser ou couper le son des enceintes pour éviter ce retour.
 
 ![nouveau track](./images/capture10.png)
 
@@ -68,7 +70,9 @@ Pour recouper l'enregistrements, on peux soit sélectionner la partie du son à 
 
 ![nouveau track](./images/screen5.png)
 
-Pour exporter le son, faire `File` > `Consolidate/Export tracks...` .
+Pour récupérer l'enregistrement, il se trouve le plus souvent sur le bureau ou dans le dossier Documents sous le nom de la track.
+
+Pour exporter le projet, faire `File` > `Consolidate/Export tracks...` .
 
 ![nouveau track](./images/screen6.png)
 
